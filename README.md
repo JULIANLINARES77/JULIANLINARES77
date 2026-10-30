@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=220&section=header&text=Julian%20Linares&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0052CC&center=true&vcenter=true&width=800&height=50&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Datronix+Architect+%7C+Vanilla+JS+%26+HTML5;Mobile+Solutions+%7C+Flutter+%26+SQLite;Data+Science+%7C+Python,+Pandas+%26+Scikit-Learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0052CC&center=true&vcenter=true&width=800&height=50&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Datronix+Architect+%7C+javascript+%26+HTML5;Mobile+Solutions+%7C+Flutter+%26+SQLite;Data+Science+%7C+Python,+Pandas+%26+Scikit-Learn" alt="Typing SVG" />
   </a>
 
   <p align="center">
