@@ -82,8 +82,12 @@ Implementación de arquitecturas de datos y modelos predictivos mediante ecosist
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JULIANLINARES77&show_icons=true&theme=transparent&hide_border=true&title_color=0052CC&icon_color=0052CC&text_color=777777&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JULIANLINARES77&layout=compact&theme=transparent&hide_border=true&title_color=0052CC&text_color=777777&cache_seconds=86400" alt="Top Langs" width="48%" />
+  <a href="https://github.com/JULIANLINARES77">
+    <img src="https://github-readme-stats.vercel.app/api?username=JULIANLINARES77&show_icons=true&theme=transparent&hide_border=true&title_color=0052CC&icon_color=0052CC&text_color=777777&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/JULIANLINARES77">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JULIANLINARES77&layout=compact&theme=transparent&hide_border=true&title_color=0052CC&text_color=777777&cache_seconds=86400" alt="Top Langs" width="48%" />
+  </a>
 </p>
 
 <p align="center">
