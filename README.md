@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Desarrollador de Software y Analista de Datos enfocado en la construcción de arquitecturas empresariales de alto rendimiento y ecosistemas de software integrales. Especializado en la creación de servicios backend transaccionales utilizando **Java y Spring Boot**, así como en la maquetación de interfaces ultraligeras con **HTML, CSS y Vanilla JS**. Poseo una fuerte orientación hacia la **analítica de datos a gran escala (Big Data)** y el diseño de redes neuronales artificiales mediante **Scikit-learn**, combinando eficiencia algorítmica con una profunda capacidad crítica y analítica para la toma de decisiones basada en datos.
+Desarrollador de Software y Analista de Datos enfocado en la construcción de arquitecturas empresariales de alto rendimiento y ecosistemas de software integrales. Especializado en la creación de servicios backend transaccionales utilizando **Java y Spring Boot**, así como en la maquetación de interfaces ultraligeras con **HTML, CSS y JS**. Poseo una fuerte orientación hacia la **analítica de datos a gran escala (Big Data)** y el diseño de redes neuronales artificiales mediante **Scikit-learn**, combinando eficiencia algorítmica con una profunda capacidad crítica y analítica para la toma de decisiones basada en datos.
 
 ---
 
