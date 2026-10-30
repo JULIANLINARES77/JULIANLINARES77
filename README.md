@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Ingeniero de Software y Analista de Datos enfocado en la construcción de arquitecturas empresariales de alto rendimiento y ecosistemas de software integrales. Especializado en la creación de servicios backend transaccionales utilizando **Java y Spring Boot**, así como en la maquetación de interfaces ultraligeras con **HTML, CSS y Vanilla JS**. Poseo una fuerte orientación hacia la **analítica de datos a gran escala (Big Data)** y el diseño de redes neuronales artificiales mediante **Scikit-learn**, combinando eficiencia algorítmica con una profunda capacidad crítica y analítica para la toma de decisiones basada en datos.
+Desarrollador de Software y Analista de Datos enfocado en la construcción de arquitecturas empresariales de alto rendimiento y ecosistemas de software integrales. Especializado en la creación de servicios backend transaccionales utilizando **Java y Spring Boot**, así como en la maquetación de interfaces ultraligeras con **HTML, CSS y Vanilla JS**. Poseo una fuerte orientación hacia la **analítica de datos a gran escala (Big Data)** y el diseño de redes neuronales artificiales mediante **Scikit-learn**, combinando eficiencia algorítmica con una profunda capacidad crítica y analítica para la toma de decisiones basada en datos.
 
 ---
 
@@ -26,7 +26,7 @@ Ingeniero de Software y Analista de Datos enfocado en la construcción de arquit
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📱 JControl (Gota a Gota)</h3>
+      <h3 align="center">📱 GotaControl (Gota a Gota)</h3>
       <br>
       <p>Aplicación móvil nativa <em>offline-first</em> diseñada para la gestión financiera en campo, control de cartera y administración de prestamistas bajo alta movilidad temporal y geográfica.</p>
       <p><strong>Stack Core:</strong> Flutter 3, Dart 3, SQLite.</p>
